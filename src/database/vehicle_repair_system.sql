@@ -1,0 +1,1 @@
+SELECT * FROM vehicle_repair_system.invoices;
